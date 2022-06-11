@@ -1,0 +1,400 @@
+arrayList.add(new Data("100001003768335","POB Invalid : Document other than accepted list"))
+arrayList.add(new Data("100001003798529","POB- hand written distributor bill not accepted, require preprinted distributor bill or valid doc of pob<br/>"))
+arrayList.add(new Data("100001003834174","POB ATTCAH DISTRIBUTOR BILL WITH TAXABLE AMT"))
+arrayList.add(new Data("100001003836596","POB Invalid : Document other than accepted list"))
+arrayList.add(new Data("100001003835663","pob incomplete scan please provide complete image of distributor bill"))
+arrayList.add(new Data("100001003836596","POB Invalid : Document other than accepted list"))
+arrayList.add(new Data("100001003838599","POI: Photo not clear POB- hand written distributor bill is not acceptable please provide valid document"))
+arrayList.add(new Data("100001003843082","POB Expired,  Please provide Valid POB document<br/>"))
+arrayList.add(new Data("100001003849541","Wrong program tagging:- as product description not a part of FNL"))
+arrayList.add(new Data("100001003855867","POB - Distributor bill incomplete scan. provide valid document"))
+arrayList.add(new Data("100001003862684","POB - Distributor Bill Incomplete scan"))
+arrayList.add(new Data("100001003882352","POI photo not clear"))
+arrayList.add(new Data("100001003882439","POI, POA- not attached."))
+arrayList.add(new Data("100001003883602","POA not attached backside of adhaar card <br/>POB - Handwritten distributors bill not accepted"))
+arrayList.add(new Data("100001003884442","POI POA , Please provide valid E-aadhar copy with digital signature verified and download date under 7 days  and attached Invoice bill is not valid merchant address missing"))
+arrayList.add(new Data("100001003884907","POI : Photo and Expiry not clear"))
+arrayList.add(new Data("100001003889878","poi not attached<br/>poa not attached<br/>pob not attached<br/>"))
+arrayList.add(new Data("100001003889765","attached POI as driving lic is not clear merchant photo require clear POI document and POB invalid merchant address not available"))
+arrayList.add(new Data("100001003899736","pob invalid document not accepted require valid pob document"))
+arrayList.add(new Data("100001003906169","Wrong program tagging as product description not a part of FNL<br/>"))
+arrayList.add(new Data("100001003911352","POI, POA, POB not attached"))
+arrayList.add(new Data("100001003908568","No Documents attached"))
+arrayList.add(new Data("100001003920980","POB- required valid pob document"))
+arrayList.add(new Data("100001003931271","POI, POA - not attached , require valid POI POA document,POB - not attached,POB-valid document require<br/>"))
+arrayList.add(new Data("100001003937115","POI & POA & POB - not attached.<br/>"))
+arrayList.add(new Data("100001003937861","POI & POA & POB - not attached.<br/>"))
+arrayList.add(new Data("100001003958009","No documents attached<br/>"))
+arrayList.add(new Data("100001003768335","POB Invalid : Document other than accepted list"))
+arrayList.add(new Data("100001003855867","POB - Distributor bill incomplete scan. provide valid document"))
+arrayList.add(new Data("100001003937861","POI & POA & POB - not attached.<br/>"))
+arrayList.add(new Data("100001003899736","pob invalid document not accepted require valid pob document"))
+
+
+
+
+
+
+
+
+
+
+
+
+
+1) 100001003918418
+
+{
+  "Vendor": {
+    "header": {
+      "actionType": "UPDATE",
+      "Correlationid": "2eabd289-1696-4b5b-8470-0d5ff3d98aa2"
+    },
+    "body": {
+      "MerchantId": "100001003918418",
+      "TerminalId": "14283865",
+      "MerchantStatus": "A",
+      "MerchantEntityLevel": "8",
+      "SuperMerchantId": "100001003918418",
+      "BusinessName": "CHINNA OPTICIANS",
+      "ContactPersonName": "CHINNA OPTICIANS",
+      "MobileNumber": "+918977947887",
+      "IsKYCCompleted": true,
+      "StoreAddress": {
+        "Addressline1": "Door no : plot no 44,Pedawaltair",
+        "City": "Visakhapatnam",
+        "State": "AD",
+        "Pincode": "530017"
+      },
+      "SetupLevel": "1",
+      "AccountDetails": {
+        "AccountNumber": null,
+        "IfscCode": null,
+        "BeneName": null
+      },
+      "documents": {
+        "document": [
+          {
+            "documentType": "POI",
+            "documentNumber": null,
+            "documentName": "Z00005",
+            "documentExpiryDate": null,
+            "documentStatus": null
+          },
+          {
+            "documentType": "POB",
+            "documentNumber": null,
+            "documentName": "Z50067",
+            "documentExpiryDate": null,
+            "documentStatus": null
+          }
+        ]
+      }
+    }
+  }
+}
+
+
+
+
+2) 100001003931216
+
+
+{
+  "Vendor": {
+    "header": {
+      "actionType": "UPDATE",
+      "Correlationid": "946a146c-15c8-4ecd-a1fa-633a430b4f94"
+    },
+    "body": {
+      "MerchantId": "100001003931216",
+      "TerminalId": "14293664",
+      "MerchantStatus": "A",
+      "MerchantEntityLevel": "8",
+      "SuperMerchantId": "100001003931216",
+      "BusinessName": "Badrinarayan Gupta",
+      "ContactPersonName": "Badrinarayan Gupta",
+      "MobileNumber": "+918210700224",
+      "IsKYCCompleted": true,
+      "GstNumber": "20ARDPG0982D1ZG",
+      "StoreAddress": {
+        "Addressline1": "12",
+        "Addressline2": "MOHAMMAD GANJ",
+        "Addressline3": "BHAJANIYA",
+        "City": "Palamu",
+        "State": "JH",
+        "Pincode": "822120"
+      },
+      "SetupLevel": "1",
+      "AccountDetails": {
+        "AccountNumber": null,
+        "IfscCode": null,
+        "BeneName": null
+      },
+      "documents": {
+        "document": [
+          {
+            "documentType": "POI",
+            "documentNumber": null,
+            "documentName": "Z00005",
+            "documentExpiryDate": null,
+            "documentStatus": null
+          },
+          {
+            "documentType": "POI",
+            "documentNumber": null,
+            "documentName": "Z00005",
+            "documentExpiryDate": null,
+            "documentStatus": null
+          }
+        ]
+      }
+    }
+  }
+}
+
+
+
+{
+  "stateJurisdictionCode": "JH028",
+  "utime": "29-01-2022 10:33:27",
+  "legalName": "BADRINARAYAN GUPTA",
+  "stateJurisdiction": "Palamau",
+  "taxPayerType": "Regular",
+  "additionalPlaceOfBusiness": [],
+  "cancellationDate": "",
+  "itime": "29-01-2022 10:33:27",
+  "gstin": "20ARDPG0982D1ZG",
+  "natureOfBusinessActivity": [
+    "Retail Business"
+  ],
+  "lastUpdatedDate": "16/04/2018",
+  "registrationDate": "17/01/2018",
+  "constitutionOfBusiness": "Proprietorship",
+  "principalPlaceOfBusiness": {
+    "address": {
+      "pincode": "822120",
+      "doorNumber": "12",
+      "district": "Palamu",
+      "city": "",
+      "latitude": "",
+      "longitude": "",
+      "buildingName": "",
+      "location": "BHAJANIYA",
+      "street": "MOHAMMAD GANJ",
+      "state": "Jharkhand",
+      "floorNumber": ""
+    },
+    "natureOfAdditionalBusiness": "Retail Business"
+  },
+  "gstnStatus": "Active",
+  "centralJurisdictionCode": "XW0101",
+  "centralJurisdiction": "DALTONGANJ RANGE",
+  "tradeName": "PANCHSHEEL VASTRALAYA",
+  "isSuccess": true,
+  "statusCode": "OK"
+}
+
+
+
+3)
+
+{
+  "Vendor": {
+    "header": {
+      "actionType": "UPDATE",
+      "Correlationid": "ab742515-bc66-4992-9bd8-db9ab438a054"
+    },
+    "body": {
+      "MerchantId": "100001003902408",
+      "TerminalId": "14265550",
+      "MerchantStatus": "A",
+      "MerchantEntityLevel": "8",
+      "SuperMerchantId": "100001003902408",
+      "BusinessName": "Vinod Jaiswal",
+      "ContactPersonName": "Vinod Jaiswal",
+      "MobileNumber": "+917007207909",
+      "IsKYCCompleted": true,
+      "GstNumber": "09ARRPJ6009N1Z4",
+      "StoreAddress": {
+        "Addressline1": "-",
+        "Addressline2": "BUS STATION ROAD",
+        "Addressline3": "GAURI BAZAR",
+        "City": "Deoria",
+        "State": "UP",
+        "Pincode": "274202"
+      },
+      "SetupLevel": "1",
+      "AccountDetails": {
+        "AccountNumber": null,
+        "IfscCode": null,
+        "BeneName": null
+      },
+      "documents": {
+        "document": [
+          {
+            "documentType": "POI",
+            "documentNumber": null,
+            "documentName": "Z00005",
+            "documentExpiryDate": null,
+            "documentStatus": null
+          },
+          {
+            "documentType": "POI",
+            "documentNumber": null,
+            "documentName": "Z00005",
+            "documentExpiryDate": null,
+            "documentStatus": null
+          }
+        ]
+      }
+    }
+  }
+}
+
+
+
+{
+  "stateJurisdictionCode": "UP1645",
+  "utime": "24-01-2022 10:26:57",
+  "legalName": "VINOD  JAISWAL",
+  "stateJurisdiction": "Deoria Sector-4",
+  "taxPayerType": "Regular",
+  "additionalPlaceOfBusiness": [],
+  "cancellationDate": "",
+  "itime": "24-01-2022 10:26:57",
+  "gstin": "09ARRPJ6009N1Z4",
+  "natureOfBusinessActivity": [
+    "Retail Business"
+  ],
+  "lastUpdatedDate": "30/11/2018",
+  "registrationDate": "01/07/2017",
+  "constitutionOfBusiness": "Proprietorship",
+  "principalPlaceOfBusiness": {
+    "address": {
+      "pincode": "274202",
+      "doorNumber": "-",
+      "district": "Deoria",
+      "city": "",
+      "latitude": "",
+      "longitude": "",
+      "buildingName": "",
+      "location": "GAURI BAZAR",
+      "street": "BUS STATION ROAD",
+      "state": "Uttar Pradesh",
+      "floorNumber": ""
+    },
+    "natureOfAdditionalBusiness": "Retail Business"
+  },
+  "gstnStatus": "Active",
+  "centralJurisdictionCode": "ZY0305",
+  "centralJurisdiction": "DEORIA",
+  "tradeName": "M/S GANPATI ASSOCIATE",
+  "isSuccess": true,
+  "statusCode": "OK"
+}
+
+
+
+4) 100001003981571
+
+
+{
+  "Vendor": {
+    "header": {
+      "actionType": "UPDATE",
+      "Correlationid": "468e5a55-6b27-4851-8e0f-1cb417228cc5"
+    },
+    "body": {
+      "MerchantId": "100001003981571",
+      "TerminalId": "14347019",
+      "MerchantStatus": "A",
+      "MerchantEntityLevel": "8",
+      "SuperMerchantId": "100001003981571",
+      "BusinessName": "RAJ KUMAR MOHATA",
+      "ContactPersonName": "RAJ KUMAR MOHATA",
+      "MobileNumber": "+919007329656",
+      "IsKYCCompleted": true,
+      "GstNumber": "19AEUPM7161A1Z8",
+      "StoreAddress": {
+        "Addressline1": "17",
+        "Addressline2": "PAGEYAPATTY STREET",
+        "Addressline3": "KOLKATA",
+        "City": "Kolkata",
+        "State": "WB",
+        "Pincode": "700007"
+      },
+      "SetupLevel": "1",
+      "AccountDetails": {
+        "AccountNumber": null,
+        "IfscCode": null,
+        "BeneName": null
+      },
+      "documents": {
+        "document": [
+          {
+            "documentType": "POI",
+            "documentNumber": null,
+            "documentName": "Z00005",
+            "documentExpiryDate": null,
+            "documentStatus": null
+          },
+          {
+            "documentType": "POI",
+            "documentNumber": null,
+            "documentName": "Z00005",
+            "documentExpiryDate": null,
+            "documentStatus": null
+          }
+        ]
+      }
+    }
+  }
+}
+
+
+{
+  "stateJurisdictionCode": "WB083",
+  "utime": "03-02-2022 15:18:27",
+  "legalName": "RAJ KUMAR MOHATA",
+  "stateJurisdiction": "RAJAKATRA",
+  "taxPayerType": "Regular",
+  "additionalPlaceOfBusiness": [],
+  "cancellationDate": "",
+  "itime": "03-02-2022 15:18:27",
+  "gstin": "19AEUPM7161A1Z8",
+  "natureOfBusinessActivity": [
+    "Wholesale Business",
+    "Retail Business"
+  ],
+  "lastUpdatedDate": "16/04/2018",
+  "registrationDate": "19/07/2017",
+  "constitutionOfBusiness": "Proprietorship",
+  "principalPlaceOfBusiness": {
+    "address": {
+      "pincode": "700007",
+      "doorNumber": "17",
+      "district": "Kolkata",
+      "city": "",
+      "latitude": "",
+      "longitude": "",
+      "buildingName": "",
+      "location": "KOLKATA",
+      "street": "PAGEYAPATTY STREET",
+      "state": "West Bengal",
+      "floorNumber": ""
+    },
+    "natureOfAdditionalBusiness": "Wholesale Business, Retail Business"
+  },
+  "gstnStatus": "Active",
+  "centralJurisdictionCode": "WA0105",
+  "centralJurisdiction": "RANGE-V",
+  "tradeName": "RAJ KUMAR AMIT KUMAR",
+  "isSuccess": true,
+  "statusCode": "OK"
+}
+
+
+5)
+
+select {cu.creationtime},{cu.uid},{bu.uid},{bs.code} from {rrlmpb2bcustomer as cu join buyer as bu on {cu.defaultb2bunit}={bu.pk} join buyerstatus as bs on {bs.pk}={bu.buyerstatus}} where {cu.uid} IN ('+919365819157','+919836629256','+919600960334','+917708877333','+919610456835','+916381512995','+919933879665','+917003957984','+919944177901','+919898353589','+919416570170','+918144574462','+919677696655','+919571999979','+917007207909','+918619633942','+918210700224','+919034318198','+918077865752','+918977947887','+919703264270','+919160118412','+919448353091','+917247449930','+918104571101','+917015030609','+918619633942','+919828360449','+917002097741','+919610456835','+919710776263','+919828360449','+917976178575','+919898353589','+918144574462','+919365819157','+919677696655','+917003957984','+919876822696','+919334227081','+919933879665','+919414300805','+917708877333','+919406888886','+919836629256','+919674881485','+918077865752','+919571999979','+917007207909','+917002097741','+918210700224','+918977947887','+917015030609','+917247449930','+916381512995','+919566009141','+918104571101','+919842653925','+916239282176','+919462974721','+919944177901','+919610456835','+919462974721','+918755260385','+917708877333','+919677696655','+919007518502','+919828360449','+917007207909','+918210700224','+919425035695','+919876822696','+917002097741','+918077865752','+917003957984','+919571999979','+919365819157','+919836629256','+919007329656','+917976178575','+919837183421','+919660482442','+918210700224','+917988517590','+919818479528','+918144574462','+918210700224','+919944177901','+919807361713','+919610456835','+919334227081','+918104571101','+919007329656','+918077865752','+919880108985','+919933879665','+919406888886','+919460332260','+919425035695','+919818479528','+919365179541','+919929390701','+918077865752','+919904445436','+919166005911','+918104571101','+919365819157','+917976178575','+919758094266','+919876822696','+919898353589','+917003957984','+917015030609','+919842653925','+919677696655','+919571999979','+917007207909','+917002097741','+916381512995','+919610456835','+918977947887','+917247449930','+919944177901','+919007329656','+919334227081','+919425035695','+919677696655','+918619633942','+919406888886','+918104571101','+919831877102','+919836629256','+919933879665','+917003957984','+919836629256','+919876822696','+917708877333','+919828360449','+917708877333','+919898353589','+919828360449','+918144574462','+919571999979','+918977947887','+917007207909','+917247449930','+917015030609','+918077865752','+917002097741','+918210700224','+919999351256','+916381512995','+919999351256','+918104571101','+917380806527','+919827011345','+919679445183','+917017818133','+919566009141','+917044331620','+917708877333','+917044331620','+917017896929','+917679770382','+917679770382','+919007329656','+919836629256','+917708877333','+918787284991','+919944863386','+919836629256','+919876822696','+918104571101','+917007207909','+919853915658','+919571999979','+917002097741','+918210700224','+918977947887','+917015030609','+918787284991','+917247449930','+919007329656','+917008707367','+916381512995','+916374933987','+919876822696','+917679770382','+917017896929','+919460746083','+918077865752','+919944177901','+919842653925','+919334227081','+919828360449','+919826037755','+917708877333','+917002097741','+919677696655','+918210700224','+919933879665','+919898353589','+919610456835','+917003957984','+918077865752','+919035362306','+917007207909','+919425035695','+917247449930','+919836629256','+918977947887','+917015030609','+918104571101','+918104571101','+918697588676','+916381512995','+918697588676','+919677696655','+919571999979','+919876822696','+919828360449','+918103252013','+919610456835','+919567700500','+919666060393','+917708877333','+919007329656','+917708877333','+919944177901','+917567455640','+917399974115','+919836629256','+919842653925','+919828360449','+917567455640','+919898353589','+918787284991','+918824580456','+917399974115','+919425035695','+918077865752','+917247449930','+919826037755','+919955606754','+919960458693','+918104571101','+917399974115','+919677696655','+919571999979','+917007207909','+916381512995','+917002097741','+918210700224','+918977947887','+918473889576','+918838757474','+917007207909','+917738633950','+919425035695','+919591788238','+919610456835','+917535024528','+917862002744','+918718841888','+918249713879','+919831125542','+919842653925','+919898353589','+917007207909','+917003957984','+917007207909','+919571999979','+919610456835','+919836629256','+919007329656','+919898353589','+919550514692','+918891146608','+919933879665','+917247449930','+917980035548','+917002097741','+916309719202','+919304388801','+918473889576','+917003957984','+917015030609','+917007207909','+917708877333','+917015030609','+919557461860','+919900332503','+918509605898','+919931074223','+919589270924','+917905967854','+917002097741','+919944177901','+918977947887','+918639752844','+919828360449','+919936819748','+919849255468','+918210700224','+916370644435','+919007329656','+919571999979','+916381512995','+919876822696','+918838757474','+919933879665','+919831125542','+919007329656','+917708877333','+917002097741','+918104571101','+919610456835','+918977947887','+919591788238','+919933879665','+917976879953','+918709049549','+919007329656','+919677696655','+916381512995','+919842653925','+919414217246','+918787284991','+919610456835','+918977947887','+919831125542','+919836629256','+919425035695','+919828360449','+919898353589','+918787284991','+919836629256','+919828360449','+917034438837','+918103252013','+917003957984','+918639752844','+918787284991','+918639752844','+918431001448','+919425967410','+919024890079','+917862002744','+919425035695','+916381512995','+918797149402','+918473889576','+919828360449','+917003957984','+917015030609','+917980035548','+918104571101','+919163375574','+919944177901','+917399974115','+918104571101','+917015030609','+917003957984','+918104571101','+919677696655','+917015030609','+919571999979','+919836629256','+919179557788','+919944177901','+916381512995','+918977947887','+919744455530','+917982102233','+918210700224','+917708877333','+917980035548','+919933879665','+919429714743','+917003957984','+919872025330','+918210700224','+918200480065','+917015030609','+918077865752','+918787284991','+918787284991','+918210700224','+919719439560','+919007329656','+919571999979','+918104571101','+918103252013','+918473889576','+919831125542','+917399974115','+919663635706','+917202041786','+918200480065','+919744455530','+918977947887','+919610456835','+917708877333','+919425372542','+919429714743','+917399974115','+919677696655','+917002097741','+918473889576') order by {creationtime} desc

@@ -1,0 +1,86 @@
+
+
+
+
+{
+   "validateNumberRq": {
+     "rqHeader": {
+       "messageContext": {
+         "version": "1.0",
+         "esbId": "afed11df-2120-4896-96a3-e439632ce8b3",
+         "correlationId": "afed11df-2120-4896-96a3-e439632ce8b3",
+         "sourceChannel": "G"
+       },
+       "checkSum": "9jFkAsLiU9F7kLlQC9AwOhmWDdqogMRjlt0moKkKFSY\u003d"
+     },
+     "body": {
+       "mobileNumber": "9100091505"
+     }
+   }
+ }
+
+
+
+{
+     "rsHeader": {
+       "messageContext": {
+         "version": "1.0",
+         "correlationId": "afed11df-2120-4896-96a3-e439632ce8b3",
+         "sourceChannel": "G"
+       }
+     },
+     "responseStatus": {
+       "result": {},
+       "statusCode": "002",
+       "status": "Failure",
+       "message": "Mobile number already used"
+     }
+   }
+ }
+
+
+
+
+{
+     "rqHeader": {
+       "messageContext": {
+         "version": "1.0",
+         "esbId": "868e5447-857b-4868-ab5f-27f9da06e085",
+         "correlationId": "868e5447-857b-4868-ab5f-27f9da06e085",
+         "sourceChannel": "G"
+       },
+       "checkSum": "9jFkAsLiU9F7kLlQC9AwOhmWDdqogMRjlt0moKkKFSY\u003d"
+     },
+     "body": {
+       "mobileNumber": "9100091505"
+     }
+   }
+ }
+ 
+ 
+
+
+Response
+
+{
+     "rsHeader": {
+       "messageContext": {
+         "version": "1.0",
+         "correlationId": "868e5447-857b-4868-ab5f-27f9da06e085",
+         "sourceChannel": "G"
+       }
+     },
+     "responseStatus": {
+       "result": {
+         "dataStr": "eQaVjqWrq2lU95pWFn9588tDZiIFdWOl/QcdrzrPbSw+4bN87FawPtsFdJAdSfYS"
+       },
+       "statusCode": "000",
+       "status": "Success",
+       "message": "Success"
+     }
+   }
+ }
+
+
+
+ 

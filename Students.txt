@@ -1,0 +1,5 @@
+use admin
+db.createUser({ user: "Mohan", pwd: "minuD83#", roles: {"root"} })
+
+
+ {{0,1,0,0},{1,1,1,0},{0,1,0,0},{1,1,0,0}}
